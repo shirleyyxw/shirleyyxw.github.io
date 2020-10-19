@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Home: Shirley Wu</title>
+    <link>https://shirleyyxw.github.io/post/</link>
+    <description>Recent content in Projects on Home: Shirley Wu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Oct 2020 12:00:00 -0500</lastBuildDate><atom:link href="https://shirleyyxw.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>InsightUBC</title>
+      <link>https://shirleyyxw.github.io/post/project-1/</link>
+      <pubDate>Fri, 29 Nov 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://shirleyyxw.github.io/post/project-1/</guid>
+      <description>Built a full-stack web application querying university course and room information. Read and parsed valid datasets using JSZip library and Node.js File System. Programmed backend query engine where the query was based on a metasyntax notation (ENBF) to efficiently retrieve information from datasets. Complemented backend with REST Server and Frontend UI, enabling project to be deployed and used as a Web application. Used the Mocha Test Environment with Chai Expectations for testing.</description>
+    </item>
+    
+    <item>
+      <title>SuperRent</title>
+      <link>https://shirleyyxw.github.io/post/project-2/</link>
+      <pubDate>Fri, 15 Nov 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://shirleyyxw.github.io/post/project-2/</guid>
+      <description>Link to GitHub Repository
+ Designed a database system for a car rental company to track transactions performed by both customers and employees, and to generate various rental/return reports. Analyzed potential stored data, specified required transactions, and constructed an Entity-Relationship diagram (ER diagram) to visualize database schemas. Implemented with embedded SQL in Java to retrieve data from the database using JDBC.  Technologies: SQL | Java | JDBC | ER diagram | Oracle</description>
+    </item>
+    
+    <item>
+      <title>Asteroids Game</title>
+      <link>https://shirleyyxw.github.io/post/project-3/</link>
+      <pubDate>Sat, 29 Sep 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://shirleyyxw.github.io/post/project-3/</guid>
+      <description> Transformed a simple space invader game that was originally completed as a class assignment into Asteroids by modifying existing methods and refactoring. Expanded movement methods to allow both player and invaders to move in all four directions. Implemented 2D collision detection. Added sound effects utilizing Java Sound API. Wrote JUnit tests for debugging and testing newly added functionalities.  Technologies: Java | JUnit | Swing | Java Sound
+       </description>
+    </item>
+    
+    <item>
+      <title>Maze Runner</title>
+      <link>https://shirleyyxw.github.io/post/project-4/</link>
+      <pubDate>Wed, 13 Jun 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://shirleyyxw.github.io/post/project-4/</guid>
+      <description> Developed an algorithm for solving text-based mazes. Designed recursive functions and array-based stack to keep track of the location visited and determine whether the maze is solvable. Performed memory leak detection using Valgrind.  Technologies: Technologies: C++, Valgrind
+ Example of a 9x11 text-based maze which starts at (0,1) and ends at (8,9):
+  Output solution:
+(&amp;quot;*&amp;quot; denotes the correct path and &amp;ldquo;:&amp;rdquo; denotes the failed attempts)   </description>
+    </item>
+    
+    <item>
+      <title>Buses Are Us Android Application</title>
+      <link>https://shirleyyxw.github.io/post/project-5/</link>
+      <pubDate>Fri, 20 Apr 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://shirleyyxw.github.io/post/project-5/</guid>
+      <description>Mapped location of stops, buses and bus routes in the Greater Vancouver Transit system. Detected user’s location on the map and determined the nearest bus stop. Retrieved real-time arrival information at stops using TransLink Open API service. Adopted test-driven development and designed JUnit tests. Implemented parsers to parse TransLink data from JSON format. Handled exceptions when JSON data had missing key/value pair  Technologies: Java | JSON | JUnit | TransLink Open API | UML class diagram</description>
+    </item>
+    
+  </channel>
+</rss>
